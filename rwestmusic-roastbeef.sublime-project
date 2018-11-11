@@ -1,0 +1,31 @@
+{
+	"folders":
+	[
+		{
+			"folder_exclude_patterns":
+			[
+				"__pycache__",
+				"copper.egg-info"
+			],
+			"path": "/Users/randallwest/Code/mirrorecho/rwestmusic-copper"
+		},
+		{
+			"folder_exclude_patterns":
+			[
+				"tools/__pycache__",
+				"calliope.egg-info"
+			],
+			"path": "/Users/randallwest/Code/mirrorecho/calliope"
+		},
+		{
+			"path": "/Users/randallwest/Code/mirrorecho/rwestmusic-tokei"
+		},
+		{
+			"path": "/Users/randallwest/Code/mirrorecho/sandbox"
+		},
+		{
+			"path": "."
+		}
+	],
+	"virtualenv": "/Users/randallwest/Code/venvs/calliope-1"
+}
